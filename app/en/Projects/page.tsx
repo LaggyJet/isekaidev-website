@@ -1,4 +1,5 @@
 'use client';
+import './../../styles/styles.css'
 
 export default function Something() {
     return (
